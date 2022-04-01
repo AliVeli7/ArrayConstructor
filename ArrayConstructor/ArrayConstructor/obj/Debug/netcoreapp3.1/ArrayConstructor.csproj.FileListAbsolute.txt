@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\bin\Debug\netcoreapp3.1\ArrayConstructor.exe
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\bin\Debug\netcoreapp3.1\ArrayConstructor.deps.json
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\bin\Debug\netcoreapp3.1\ArrayConstructor.runtimeconfig.json
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\bin\Debug\netcoreapp3.1\ArrayConstructor.runtimeconfig.dev.json
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\bin\Debug\netcoreapp3.1\ArrayConstructor.dll
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\bin\Debug\netcoreapp3.1\ArrayConstructor.pdb
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\obj\Debug\netcoreapp3.1\ArrayConstructor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\obj\Debug\netcoreapp3.1\ArrayConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\obj\Debug\netcoreapp3.1\ArrayConstructor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\obj\Debug\netcoreapp3.1\ArrayConstructor.AssemblyInfo.cs
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\obj\Debug\netcoreapp3.1\ArrayConstructor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\obj\Debug\netcoreapp3.1\ArrayConstructor.dll
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\obj\Debug\netcoreapp3.1\ArrayConstructor.pdb
+C:\Users\User\source\repos\ArrayConstructor\ArrayConstructor\obj\Debug\netcoreapp3.1\ArrayConstructor.genruntimeconfig.cache
